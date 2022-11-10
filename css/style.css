@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #264653;
   text-align: left;
   min-width: 500px;
 }
@@ -42,7 +42,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #F4A261;
   padding: 10px 0px 10px 10px;
 }
 
@@ -151,4 +151,7 @@ footer {
   main {
     grid-template-columns: 1fr;
   }
+}
+a {
+  color: #2A9D8F;
 }
