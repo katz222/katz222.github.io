@@ -6,15 +6,16 @@ html {
 /* Set the margin to 0 to make sure the page stretches all the way to the edge of the browser window. */
 body {
   margin: 0;
+  background-color: #e9c46a;
 }
 header, footer {
-  background-color: #264653;
+  background-color: #2a9d8f;
   text-align: left;
   min-width: 500px;
 }
 header {
   font-family: 'Source Sans Pro', sans-serif;
-  color: ##2a9d8f;
+  color: #264653;
   min-height: 100vh;
   display: flex;
 }
@@ -59,7 +60,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #264653;
   font-size: 24px;
   font-family: 'Work Sans';
 }
@@ -81,7 +82,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#F4A261;
 }
 
 .myButton:active {
@@ -91,6 +92,7 @@ img {
 .recipe {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
+  background-color: #fff;
 }
 
 .a {
