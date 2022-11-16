@@ -72,9 +72,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #264653;
   cursor: pointer;
-  color: #ffffff;
+  color: #264653;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -144,7 +144,6 @@ img {
 .container {
   /* min-width: 500px; */
   margin: auto;
-  color: #2a9d8f;
 }
 
 footer {
