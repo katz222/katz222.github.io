@@ -9,7 +9,7 @@ body {
   background-color: #e9c46a;
 }
 header, footer {
-  background-color: #2a9d8f;
+  background-color: ##22d4be;
   text-align: left;
 }
 header {
@@ -89,7 +89,7 @@ img {
     top:1px;
 }
 .project {
-  
+
   width: 100%;
   background-color: #fff;
 }
@@ -127,5 +127,5 @@ footer div {
   }
 }
 a {
-  color: #2A9D8F;
+  color: #22d4be;
 }
